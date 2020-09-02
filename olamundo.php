@@ -2,5 +2,4 @@
 
 echo "Olá <strong>MUNDO!</strong>";
 
-echo "Teste 123";
-?>
+echo "Teste 123";?>
